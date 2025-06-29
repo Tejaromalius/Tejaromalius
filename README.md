@@ -28,74 +28,104 @@ me = AboutMe()
 print(me)
 ````
 
-## 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Tools<p align="center">
 <p align="center">
+
+  <!-- Languages -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   </a>
-<a href="https://www.rust-lang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-</a>
-<a href="https://flutter.dev" target="_blank">
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Golang-79D4FD?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+
+  <!-- Frameworks & Libraries -->
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  </a>
+  <a href="https://flutter.dev" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-<a href="https://angular.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-</a>
-<a href="https://www.anaconda.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-</a>
-<a href="https://httpd.apache.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-</a>
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</a>
-<a href="https://redis.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</a>
-<a href="https://sqlite.org/" target="_blank">
-  <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</a>
-<a href="https://www.gimp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="GIMP" />
-</a>
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://bitbucket.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</a>
-<a href="https://kubernetes.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</a>
-<a href="https://www.notion.so/" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</a>
-<a href="https://swagger.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
-</a>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="https://swagger.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  </a>
+
+  <!-- Databases -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  </a>
+  <a href="https://sqlite.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  </a>
+
+  <!-- DevOps & Tools -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://bitbucket.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  </a>
+
+  <!-- Platforms & Services -->
+  <a href="https://www.anaconda.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
+  </a>
+  <a href="https://httpd.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  </a>
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
+
+  <!-- Graphics -->
+  <a href="https://www.gimp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="GIMP" />
+  </a>
+
 </p>
+
 
 ## 📈 GitHub Stats & Activity
 
