@@ -16,9 +16,11 @@ class AboutMe:
         self.languages = ["🐍 Python (since birth)", 
                          "🦀 Rust (ferris fan)", 
                          "🔪 C# (architecture ninja)",
-                         "🔵 Go (still confused but happy)"]
+                         "🔵 Go (still confused but happy)",
+                         "🍋 Javascript (just why?)"
+                         "💀 1 PHP project (never again)"]
         self.frameworks = ["📱 Flutter > Everything else",
-                          "💀 1 PHP project (never again)"]
+                          "🅰️ Angular (just for work)"]
         self.personality = "⚡ Fast learner | 🎨 Creative | 🤓 Tech enthusiast"
     
     def __str__(self):
