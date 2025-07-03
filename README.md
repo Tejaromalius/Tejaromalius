@@ -37,9 +37,6 @@ print(me)
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  </a>
   <a href="https://go.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Golang-79D4FD?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   </a>
@@ -66,14 +63,8 @@ print(me)
   <a href="https://angular.io/" target="_blank">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  </a>
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  </a>
-  <a href="https://swagger.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   </a>
 
   <!-- Databases -->
@@ -94,17 +85,8 @@ print(me)
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://bitbucket.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   </a>
 
   <!-- Platforms & Services -->
@@ -120,12 +102,6 @@ print(me)
   <a href="https://www.notion.so/" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </a>
-
-  <!-- Graphics -->
-  <a href="https://www.gimp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="GIMP" />
-  </a>
-
 </p>
 
 
