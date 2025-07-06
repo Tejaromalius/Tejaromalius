@@ -90,9 +90,6 @@ print(me)
   </a>
 
   <!-- Platforms & Services -->
-  <a href="https://www.anaconda.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" />
   </a>
